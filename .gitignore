@@ -1,0 +1,23 @@
+# 忽略所有 .zip 文件
+*.zip
+
+# 忽略 resources 文件夹
+resources/
+
+# 忽略 data 目录下的所有内容
+data/
+
+__pycache__/
+*.pyc
+
+
+# 忽略日志
+logs/
+
+
+
+
+
+
+
+
